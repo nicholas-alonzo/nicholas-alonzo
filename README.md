@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey there, I'm Nicholas!
 
-<!--
-**nicholas-alonzo/nicholas-alonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a background in nonprofit healthcare tech. My experience spans data analysis, programming/engineering, and management. 
 
-Here are some ideas to get you started:
+I mainly use Python and R, but am currently learning about cross-platform development with Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of data & tech, I’m a music and concert junkie. I’ll typically go to 2-3 concerts a month and you’ll find me in the front by the stage.
+
+### My Interests
+
+- Data & Tech for Social Good
+- Data Literacy, Governance, & Management
+- Recruiting, Teaching, Training, & Mentoring
+- Privacy Tools
+- Homelab
+- PC Builds
+- Video Editing
+
+### My favorite software
+
+- Artifical Intelligence
+    - Ollama
+    - ComfyUI
+    - HuggingFace
+- Browser
+    - Brave
+    - Vivaldi
+- Email
+    - SimpleLogin
+    - ProtonMail
+- Integrated Development Environment 
+    - DBeaver
+    - DataGrip
+    - PyCharm
+    - VSCodium
+- Multifactor Authentication
+    - Ente Auth
+- NAS / Homelab
+    - CasaOS
+    - HexOS
+- Password Manager
+    - KeePassXC
+    - Strongbox
+- Video Editing
+    - DaVinci Resolve
+    - LosslessCut
+- Other
+    - draw.io
+    - ImageOptim
+    - LocalSend
