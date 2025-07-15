@@ -1,8 +1,6 @@
-## Hey there, I'm Nicholas!
+Hey there, I'm Nicholas! I'm a data & tech enthusiast with a background in the nonprofit healthcare field. My experience spans data analysis, programming/engineering, and management. 
 
-I'm a data & tech enthusiast with a background in the nonprofit healthcare field. My experience spans data analysis, programming/engineering, and management. 
-
-I mainly use Python and SQL for projects, but I'm currently learning about cross-platform development with Flutter.
+I mainly use Python and SQL for projects, but I'm currently learning cross-platform development with Flutter.
 
 Outside of data & tech, I’m a music and concert junkie. I’ll typically go to 2-3 concerts a month and you’ll find me in the front by the stage.
 
@@ -12,11 +10,10 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 - Data Literacy, Governance, & Management
 - Recruiting, Teaching, Training, & Mentoring
 - Privacy & Productivity Tools
-- Generative AI
 - PC & Homelab Builds
-- Video Editing
+- Generative AI
 
-### My Favorite Software & Tools
+### Software & Tools I Recommend
 
 <details>
     <summary>AI</summary>
