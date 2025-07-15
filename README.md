@@ -13,68 +13,67 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 - Recruiting, Teaching, Training, & Mentoring
 - Privacy & Productivity Tools
 - Generative AI
-- Homelab Builds
-- PC Builds
+- PC & Homelab Builds
 - Video Editing
 
-### My Favorite Software
+### My Favorite Software & Tools
 
 <details>
     <summary>AI</summary>
 
-- Amuse
-- Ollama
-- ComfyUI
-- HuggingFace
+- [Amuse](https://www.amuse-ai.com/)
+- [Ollama](https://ollama.com/)
+- [ComfyUI](https://www.comfy.org/)
+- [HuggingFace](https://huggingface.co/)
 </details>
 <details>
     <summary>Browser</summary>
 
-- Brave
-- Vivaldi
+- [Brave](https://brave.com/)
+- [Vivaldi](https://vivaldi.com/)
 </details>
 <details>
     <summary>Email</summary>
 
-- SimpleLogin
-- ProtonMail
+- [SimpleLogin](https://simplelogin.io/)
+- [ProtonMail](https://proton.me/mail)
 </details>
  <details>
     <summary>IDE</summary>
 
-- DBeaver
-- DataGrip
-- PyCharm
-- VSCodium
+- [DBeaver](https://dbeaver.io/)
+- [DataGrip](https://www.jetbrains.com/datagrip/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [VSCodium](https://vscodium.com/)
 </details>
 <details>
     <summary>Multifactor Authentication</summary>
 
-- Ente Auth
-- 2FAS
+- [Ente Auth](https://ente.io/auth/)
+- [2FAS](https://2fas.com/auth/)
 </details>
 <details>
     <summary>NAS</summary>
 
-- CasaOS
-- HexOS
+- [CasaOS](https://casaos.zimaspace.com/)
+- [HexOS](https://hexos.com/)
 </details>
 <details>
     <summary>Password Manager</summary>
 
-- KeePassXC
-- Strongbox
+- [KeePassXC](https://keepassxc.org/)
+- [Strongbox](https://strongboxsafe.com/)
 </details>
 <details>
     <summary>Video Editing</summary>
 
-- DaVinci Resolve
-- LosslessCut
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [LosslessCut](https://mifi.no/losslesscut/)
 </details>
 <details>
     <summary>Other</summary>
 
-- draw.io
-- ImageOptim
-- LocalSend
+- [draw.io](https://www.drawio.com/)
+- [ImageOptim](https://imageoptim.com/)
+- [LocalSend](https://localsend.org/)
 </details>
