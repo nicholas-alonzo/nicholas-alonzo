@@ -1,4 +1,4 @@
-# Hey there, I'm Nicholas!
+## Hey there, I'm Nicholas!
 
 I'm a data & tech enthusiast with a background in the nonprofit healthcare field. My experience spans data analysis, programming/engineering, and management. 
 
@@ -20,68 +20,59 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 ### My Favorite Software
 
 <details>
-<summary>AI</summary>
+    <summary>AI</summary>
 
 - Amuse
 - Ollama
 - ComfyUI
 - HuggingFace
 </details>
-
 <details>
-<summary>Browser</summary>
+    <summary>Browser</summary>
 
 - Brave
 - Vivaldi
 </details>
-
 <details>
-<summary>Email</summary>
+    <summary>Email</summary>
 
 - SimpleLogin
 - ProtonMail
 </details>
- 
-
-<details>
-<summary>IDE</summary>
+ <details>
+    <summary>IDE</summary>
 
 - DBeaver
 - DataGrip
 - PyCharm
 - VSCodium
 </details>
-
 <details>
-<summary>Multifactor Authentication</summary>
+    <summary>Multifactor Authentication</summary>
 
 - Ente Auth
 - 2FAS
 </details>
-
 <details>
-<summary>NAS</summary>
+    <summary>NAS</summary>
 
 - CasaOS
 - HexOS
 </details>
-
 <details>
-<summary>Password Manager</summary>
+    <summary>Password Manager</summary>
 
 - KeePassXC
 - Strongbox
 </details>
-
 <details>
-<summary>Video Editing</summary>
+    <summary>Video Editing</summary>
 
 - DaVinci Resolve
 - LosslessCut
 </details>
-
 <details>
-<summary>Other</summary>
+    <summary>Other</summary>
 
 - draw.io
 - ImageOptim
