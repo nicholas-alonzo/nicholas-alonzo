@@ -19,8 +19,8 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
     <summary>AI</summary>
 
 - [Amuse](https://www.amuse-ai.com/)
-- [Ollama](https://ollama.com/)
 - [ComfyUI](https://www.comfy.org/)
+- [Ollama](https://ollama.com/)
 - [HuggingFace](https://huggingface.co/)
 </details>
 <details>
@@ -32,22 +32,22 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 <details>
     <summary>Email</summary>
 
-- [SimpleLogin](https://simplelogin.io/)
 - [ProtonMail](https://proton.me/mail)
+- [SimpleLogin](https://simplelogin.io/)
 </details>
  <details>
     <summary>IDE</summary>
 
-- [DBeaver](https://dbeaver.io/)
 - [DataGrip](https://www.jetbrains.com/datagrip/)
+- [DBeaver](https://dbeaver.io/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [VSCodium](https://vscodium.com/)
 </details>
 <details>
     <summary>Multifactor Authentication</summary>
 
-- [Ente Auth](https://ente.io/auth/)
 - [2FAS](https://2fas.com/auth/)
+- [Ente Auth](https://ente.io/auth/)
 </details>
 <details>
     <summary>NAS</summary>
