@@ -1,4 +1,4 @@
-Hey there, I'm Nicholas! I'm a data & tech enthusiast with a background in the nonprofit healthcare field. My experience spans data analytics, engineering, and management. 
+Hey there, I'm Nicholas! I'm a data & tech enthusiast with a background in the nonprofit healthcare field. My experience spans data analytics, engineering, and management.
 
 I mainly use Python and SQL for projects, but I'm currently learning cross-platform development with Flutter.
 
@@ -7,7 +7,7 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 ### My Interests
 
 - Data & Tech for Social Good
-- Data Literacy, Governance, & Management
+- Data Culture Development
 - Social & Human Capital Development
 - Privacy & Productivity Tools
 - PC & Homelab Builds
