@@ -2,8 +2,6 @@ Hey there, I'm Nicholas! I'm a data & tech enthusiast with a background in the n
 
 I mainly use Python and SQL for projects, but I'm currently learning cross-platform development with Flutter.
 
-Outside of data & tech, I’m a music and concert junkie. I’ll typically go to 2-3 concerts a month and you’ll find me in the front by the stage.
-
 ### My Interests
 
 - Data & Tech for Social Good
