@@ -2,8 +2,7 @@ Hey there, I'm Nicholas! I'm a data & tech enthusiast with a background in the n
 
 I mainly use Python and SQL for projects, but I'm currently learning cross-platform development with Flutter.
 
-### My Interests
-
+__My Interests__:
 - Data & Tech for Social Good
 - Data Culture Development
 - Social & Human Capital Development
