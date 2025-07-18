@@ -9,6 +9,6 @@ Outside of data & tech, I’m a music and concert junkie. I’ll typically go to
 - Data & Tech for Social Good
 - Data Culture Development
 - Social & Human Capital Development
-- Privacy & Productivity Tools
+- Privacy, Security, & Productivity Tools
 - PC & Homelab Builds
 - Generative AI
