@@ -9,3 +9,5 @@ __My Interests__:
 - Privacy, Security, & Productivity Tools
 - PC & Homelab Builds
 - Generative AI
+
+![](https://komarev.com/ghpvc/?username=nicholas-alonzo&abbreviated=true)
